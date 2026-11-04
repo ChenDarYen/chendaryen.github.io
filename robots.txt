@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chendaryen.github.io/sitemap.xml

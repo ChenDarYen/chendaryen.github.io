@@ -1,0 +1,20 @@
+# Dar-Yen Chen
+
+> Dar-Yen Chen is a third-year doctoral candidate at SketchX, Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey, working with Prof. Yi-Zhe Song. He works on visual generation and few-step distillation of diffusion models.
+
+Contact: chendaryen@outlook.com
+
+## Publications (all first-author)
+
+- [NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://chendaryen.github.io/NitroFusion2.github.io/): Preprint, 2026. Dar-Yen Chen, Yi-Zhe Song. Code: https://github.com/ChenDarYen/NitroFusion2 · Demo: https://huggingface.co/spaces/ChenDY/NitroFusion2
+- [Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models](https://arxiv.org/abs/2505.21179): NeurIPS 2025. Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song. Project: https://chendaryen.github.io/NAG.github.io/ · Code: https://github.com/ChenDarYen/Normalized-Attention-Guidance
+- [NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training](https://arxiv.org/abs/2412.02030): CVPR 2025. Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song. Project: https://chendaryen.github.io/NitroFusion.github.io/ · Code: https://github.com/ChenDarYen/NitroFusion
+- [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364): CVPR 2024. Dar-Yen Chen, Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song. Project: https://democaricature.github.io · Code: https://github.com/ChenDarYen/DemoCaricature
+- [ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation](https://arxiv.org/abs/2312.02109): CVPR 2024. Dar-Yen Chen, Hamish Tennent, Ching-Wen Hsu. Project: https://cardinalblue.github.io/artadapter.github.io/
+
+## Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=0ZCCpZAAAAAJ)
+- [GitHub](https://github.com/ChenDarYen)
+- [Hugging Face](https://huggingface.co/ChenDY)
+- [LinkedIn](https://www.linkedin.com/in/dar-yen-chen-38074123a/)
