@@ -6,7 +6,7 @@ Contact: d.chen@surrey.ac.uk
 
 ## Publications (all first-author)
 
-- [NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://chendaryen.github.io/NitroFusion2.github.io/): Preprint, 2026. Dar-Yen Chen, Yi-Zhe Song. Code: https://github.com/ChenDarYen/NitroFusion2 · Demo: https://huggingface.co/spaces/ChenDY/NitroFusion2
+- [NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers](https://chendaryen.github.io/NitroFusion2.github.io/): Preprint, 2026 (arXiv:2611.05648). Dar-Yen Chen, Yi-Zhe Song. Paper: https://arxiv.org/abs/2611.05648 · Code: https://github.com/ChenDarYen/NitroFusion2 · Demo: https://huggingface.co/spaces/ChenDY/NitroFusion2
 - [Normalized Attention Guidance: Universal Negative Guidance for Diffusion Models](https://arxiv.org/abs/2505.21179): NeurIPS 2025. Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song. Project: https://chendaryen.github.io/NAG.github.io/ · Code: https://github.com/ChenDarYen/Normalized-Attention-Guidance
 - [NitroFusion: High-Fidelity Single-Step Diffusion through Dynamic Adversarial Training](https://arxiv.org/abs/2412.02030): CVPR 2025. Dar-Yen Chen, Hmrishav Bandyopadhyay, Kai Zou, Yi-Zhe Song. Project: https://chendaryen.github.io/NitroFusion.github.io/ · Code: https://github.com/ChenDarYen/NitroFusion
 - [DemoCaricature: Democratising Caricature Generation with a Rough Sketch](https://arxiv.org/abs/2312.04364): CVPR 2024. Dar-Yen Chen, Ayan Kumar Bhunia, Subhadeep Koley, Aneeshan Sain, Pinaki Nath Chowdhury, Yi-Zhe Song. Project: https://democaricature.github.io · Code: https://github.com/ChenDarYen/DemoCaricature
